@@ -1,0 +1,407 @@
+*{
+  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Rampart One', cursive;
+  font-family: 'Zen Antique', serif;
+/*   border: 1px solid; */
+}
+
+.navbar-brand{
+font-family: 'Noto Sans TC', sans-serif;
+font-family: 'Oleo Script', cursive;
+font-family: 'Rampart One', cursive;
+font-family: 'Zen Antique', serif;
+  }
+
+.carousel-inner{
+  padding-top: 50px;
+}
+
+section{
+  padding-top: 100px;
+}
+
+
+.Kuma{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Kuma:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Lily{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Lily:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Lucas{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Lucas:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Ida{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Ida:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.BOBO{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.BOBO:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Jacky{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Jacky:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.KAI{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.KAI:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Max{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Max:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Leo{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Leo:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.sushi{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.sushi:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Jamie{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Jamie:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Hana{
+ background: #faede1;
+ margin-bottom: 10px;
+}
+.Hana:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Seven{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Seven:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.QB{
+ background: #faede1;
+ margin-bottom: 10px;
+}
+.QB:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.FootBot{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.FootBot:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.momo{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.momo:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Money{
+ background: #faede1;
+ margin-bottom: 10px;
+}
+.Money:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Jorden{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Jorden:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Mei{
+ background: #faede1;
+ margin-bottom: 10px;
+}
+.Mei:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.kiwi{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.kiwi:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Pudding{
+ background: #faede1;
+ margin-bottom: 10px;
+}
+.Pudding:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Sony{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Sony:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Sinba{
+ background: #faede1;
+ margin-bottom: 10px;
+}
+.Sinba:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.White{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.White:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Google{
+ background: #faede1;
+ margin-bottom: 10px;
+}
+.Google:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Waiting{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Waiting:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Gily{
+ background: #faede1;
+ margin-bottom: 10px;
+}
+.Gily:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.Betty{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.Betty:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.PIPI{
+ background: #faede1;
+ margin-bottom: 10px;
+}
+.PIPI:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.CHOCO{
+  background: #faede1;
+  margin-bottom: 10px;
+}
+.CHOCO:hover{
+  transform: scale(1.007);
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+  background: #f5dacb;
+}
+
+.notice1, .notice3{
+  background: #f5f2f0;
+  padding: 30px;
+  padding-left: 70px;
+  padding-right: 70px;
+  line-height: 30px;
+  margin: 10px;
+}
+
+.notice2, .notice4{
+  background: #fff0e6;
+  padding: 30px;
+  padding-left: 70px;
+  padding-right: 70px;
+  line-height: 30px;
+  margin: 10px;
+}
+  
+.notice_title{
+  padding-top: 10px;
+}
+
+.rectengle{
+  width: 40px;
+  height: 10px;
+  background: #f2af80;
+  margin: auto;
+  
+}
+
+.step{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+ 
+}
+
+.dog{
+  padding: 25px;
+}
+
+.toTop-arrow {
+	width: 2.5rem;
+	height: 2.5rem;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	border-radius: 33%;
+	opacity: 0.6;
+	background: #000;
+	cursor: pointer;
+	position:fixed;
+	right: 1rem;
+	bottom: 1rem;
+	display: none;
+}
+
+.toTop-arrow::before, .toTop-arrow::after {
+	width: 18px;
+	height: 5px;
+	border-radius: 3px;
+	background: #f90;
+	position: absolute;
+	content: "";
+}
+.toTop-arrow::before {
+	transform: rotate(-45deg) translate(0, -50%);
+	left: 0.5rem;
+}
+.toTop-arrow::after {
+	transform: rotate(45deg) translate(0, -50%);
+	right: 0.5rem;
+}
+.toTop-arrow:focus {outline: none;}
+
+
+.copyright{
+  padding-top: 30px;
+  text-align: center;
+  color: white;
+  background: #db946e; 
+  height: 120px;
+  margin-top: 40px;
+}
